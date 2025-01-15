@@ -1,0 +1,5 @@
+À partir du moment ou les architectures matérielles peuvent être interconnectées, nous pourrons réaliser une architecture client/serveur.
+L’architecture client-serveur s’appuie sur un poste central, le serveur, qui envoie des données aux machines clientes. Les programmes qui accèdent au serveur sont
+appelés programmes clients (client FTP, client mail, navigateur).
+Cette architecture est basée sur l'utilisation de deux types de logiciels : un logiciel serveur et un logiciel client s'exécutant normalement sur 2 machines différentes.
+L'élément important dans cette architecture est l'utilisation de mécanismes de communication entre deux applications.
